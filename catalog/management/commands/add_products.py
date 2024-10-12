@@ -18,7 +18,7 @@ class Command(BaseCommand):
         products = [
             {'name': 'Перчатки', 'descriptions': 'Для защиты рук', 'image':'perchatki.jpg', 'category': category,
              'price': 100},
-            {'name': 'Шлем', 'descriptions': 'Для защиты головы', 'image': 'perchatki.jpg', 'category': category,
+            {'name': 'Шлем', 'descriptions': 'Для защиты головы', 'image': 'kevlar.jpg', 'category': category,
              'price': 300}
         ]
 
